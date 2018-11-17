@@ -5,7 +5,7 @@ body {
 
 .container {
     width: 400px;
-    margin: 20px auto;
+    margin: 20px auto; 
 }
 
 h1 {
@@ -17,4 +17,13 @@ h1 {
 
 ul > li {
     margin-bottom:5px;
+}
+
+.del {
+    font-size: 12px;
+}
+
+h2 {
+    font-size: 14px;
+    padding-top: 25px;
 }
