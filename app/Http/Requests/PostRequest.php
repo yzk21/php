@@ -29,10 +29,10 @@ class PostRequest extends FormRequest
             'body' => 'required'
         ];
     }
-    
-    public function messages(){
-        return [
-            'title.required' => 'please enter title!!!'
-            ];
+
+    public function messages() {
+      return [
+        'title.required' => 'please enter title!!!'
+      ];
     }
 }
